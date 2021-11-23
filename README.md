@@ -13,16 +13,16 @@ This is a basic eCommrece website.
 # Screenshots
 
 Products list page
-![alt ProductsPage](https://sendmail2krrish.github.io/eCommerce-site-using-Node-Express-js/Screenshots/pic1.png)
+![alt ProductsPage](https://www.youtube.com/watch?v=-f7sZL_IYIg)
 
 Product details page
-![alt ProductDetails](https://sendmail2krrish.github.io/eCommerce-site-using-Node-Express-js/Screenshots/pic2.png)
+![alt ProductDetails](https://www.youtube.com/watch?v=-f7sZL_IYIg)
 
 Cart page
-![alt Cart](https://sendmail2krrish.github.io/eCommerce-site-using-Node-Express-js/Screenshots/pic3.png)
+![alt Cart](https://www.youtube.com/watch?v=-f7sZL_IYIg)
 
 Checkout page
-![alt Checkout](https://sendmail2krrish.github.io/eCommerce-site-using-Node-Express-js/Screenshots/pic4.png)
+![alt Checkout](https://www.youtube.com/watch?v=-f7sZL_IYIg)
 
 
 

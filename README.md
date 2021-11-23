@@ -25,6 +25,5 @@ Checkout page
 ![alt Checkout](https://sendmail2krrish.github.io/eCommerce-site-using-Node-Express-js/Screenshots/pic4.png)
 
 
-Thanks,<br />
-Krishna<br />
+
 <a href="mailto:helimisaid777@gmail.com">helimisaid777@gmail.com</a>
